@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "15mfuM7Yzos5Lc1dhPFu2WWWXSozdNKNQZI22zfE6V5GBt1yJP+ZyhkJfZiJfDkY8WHtCgdfQ8YC54JHrAb0MA==",
+  "success": true,
+  "projectFilePath": "d:\\2ANO-ADS-AMS\\POO\\pooZoologico\\pooZoologico.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\julia\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.16\\microsoft.netcore.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\julia\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.16\\microsoft.windowsdesktop.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\julia\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.16\\microsoft.aspnetcore.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\julia\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.16\\microsoft.netcore.app.host.win-x64.6.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}

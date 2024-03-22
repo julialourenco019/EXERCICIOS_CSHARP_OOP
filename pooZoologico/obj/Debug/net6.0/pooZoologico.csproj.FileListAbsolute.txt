@@ -1,0 +1,15 @@
+D:\2ANO-ADS-AMS\POO\pooZoologico\bin\Debug\net6.0\pooZoologico.exe
+D:\2ANO-ADS-AMS\POO\pooZoologico\bin\Debug\net6.0\pooZoologico.deps.json
+D:\2ANO-ADS-AMS\POO\pooZoologico\bin\Debug\net6.0\pooZoologico.runtimeconfig.json
+D:\2ANO-ADS-AMS\POO\pooZoologico\bin\Debug\net6.0\pooZoologico.dll
+D:\2ANO-ADS-AMS\POO\pooZoologico\bin\Debug\net6.0\pooZoologico.pdb
+D:\2ANO-ADS-AMS\POO\pooZoologico\obj\Debug\net6.0\pooZoologico.csproj.AssemblyReference.cache
+D:\2ANO-ADS-AMS\POO\pooZoologico\obj\Debug\net6.0\pooZoologico.GeneratedMSBuildEditorConfig.editorconfig
+D:\2ANO-ADS-AMS\POO\pooZoologico\obj\Debug\net6.0\pooZoologico.AssemblyInfoInputs.cache
+D:\2ANO-ADS-AMS\POO\pooZoologico\obj\Debug\net6.0\pooZoologico.AssemblyInfo.cs
+D:\2ANO-ADS-AMS\POO\pooZoologico\obj\Debug\net6.0\pooZoologico.csproj.CoreCompileInputs.cache
+D:\2ANO-ADS-AMS\POO\pooZoologico\obj\Debug\net6.0\pooZoologico.dll
+D:\2ANO-ADS-AMS\POO\pooZoologico\obj\Debug\net6.0\refint\pooZoologico.dll
+D:\2ANO-ADS-AMS\POO\pooZoologico\obj\Debug\net6.0\pooZoologico.pdb
+D:\2ANO-ADS-AMS\POO\pooZoologico\obj\Debug\net6.0\pooZoologico.genruntimeconfig.cache
+D:\2ANO-ADS-AMS\POO\pooZoologico\obj\Debug\net6.0\ref\pooZoologico.dll

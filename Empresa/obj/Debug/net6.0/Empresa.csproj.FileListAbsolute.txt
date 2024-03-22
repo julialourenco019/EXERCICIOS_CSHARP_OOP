@@ -1,0 +1,15 @@
+D:\2ANO-ADS-AMS\POO\Empresa\bin\Debug\net6.0\Empresa.exe
+D:\2ANO-ADS-AMS\POO\Empresa\bin\Debug\net6.0\Empresa.deps.json
+D:\2ANO-ADS-AMS\POO\Empresa\bin\Debug\net6.0\Empresa.runtimeconfig.json
+D:\2ANO-ADS-AMS\POO\Empresa\bin\Debug\net6.0\Empresa.dll
+D:\2ANO-ADS-AMS\POO\Empresa\bin\Debug\net6.0\Empresa.pdb
+D:\2ANO-ADS-AMS\POO\Empresa\obj\Debug\net6.0\Empresa.csproj.AssemblyReference.cache
+D:\2ANO-ADS-AMS\POO\Empresa\obj\Debug\net6.0\Empresa.GeneratedMSBuildEditorConfig.editorconfig
+D:\2ANO-ADS-AMS\POO\Empresa\obj\Debug\net6.0\Empresa.AssemblyInfoInputs.cache
+D:\2ANO-ADS-AMS\POO\Empresa\obj\Debug\net6.0\Empresa.AssemblyInfo.cs
+D:\2ANO-ADS-AMS\POO\Empresa\obj\Debug\net6.0\Empresa.csproj.CoreCompileInputs.cache
+D:\2ANO-ADS-AMS\POO\Empresa\obj\Debug\net6.0\Empresa.dll
+D:\2ANO-ADS-AMS\POO\Empresa\obj\Debug\net6.0\refint\Empresa.dll
+D:\2ANO-ADS-AMS\POO\Empresa\obj\Debug\net6.0\Empresa.pdb
+D:\2ANO-ADS-AMS\POO\Empresa\obj\Debug\net6.0\Empresa.genruntimeconfig.cache
+D:\2ANO-ADS-AMS\POO\Empresa\obj\Debug\net6.0\ref\Empresa.dll
